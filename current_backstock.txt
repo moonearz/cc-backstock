@@ -1,0 +1,6 @@
+SKU,Product Name,Price,Quantity/case,Current Quantity
+58024,Licorice Soft Twist Black,$2.99,48,1
+58025,Licorice Soft Twist Strawberry,$2.99,48,1
+94064,PB Cups Dark Choc,$4.49,24,1
+99425,Powerberries Dark Choc,$3.99,64,0.5
+01/09/2024 at 01:00 PM

@@ -1,0 +1,136 @@
+SKU,Product Name,Price,Quantity/case
+74888,Chai Tea Mints,$1.99,144
+96004,Green Tea Mints,$1.99,144
+67358,Gum Natrually Mint Flavored,$2.79,288
+94224,Org Gingermints,$2.29,144
+94242,Org Peppermints,$2.29,144
+57478,Velamints Gum Peppermint,$2.29,144
+32991,Wintermynt Sugar Free Mints,$1.79,144
+71332,Gummy Cinnamon Dragons,$2.29,56
+55691,Gummy Scandinavian Swimmers,$3.49,36
+70440,Jelly Beans Sour,$2.29,72
+27678,Ginger People Ginger Chews,$1.99,48
+99438,Jelly Beans Gourmet,$2.29,72
+63601,Almond Butter Cups Dark Choc,$4.49,24
+68229,Almond Butter Cups Dark Choc 2PK,$0.99,72
+53068,Almonds Coconut Chocolate,$4.99,24
+56017,Almonds Dark Choc 1LB,$5.99,24
+75059,Almonds Slightly Coated Dark Chocolate,$4.99,40
+73946,Bark Pretzel Almond Dark Chocolate,$3.99,36
+71006,Candy Coated Choc Peanuts,$2.99,36
+71007,Candy Coated Chocolates,$2.99,36
+55024,Honey Grahams Dark Choc,$3.99,24
+60414,Orange Sticks Dark Choc,$3.49,18
+67706,Org Rice Cake Thins Dark Chocolate,$1.99,16
+94064,PB Cups Dark Choc,$4.49,24
+96804,Peanut Butter Cups Dark Choc Bag,$0.99,48
+99425,Powerberries Dark Choc,$3.99,64
+55087,Toffee Chips,$3.69,24
+91418,3 Pack 72% Cacao Dark Choc Belgium,$1.99,16
+51509,3 Pack Crispy Rice Milk Choc Belgium,$1.99,16
+59849,3 Pack Dark Choc Belgium,$1.99,16
+97957,3 Pack Dark Choc With Almonds Belgium,$1.99,16
+59848,3 Pack Milk Choc Belgium,$1.99,16
+71552,3 Pack Oat Chocolate Bar,$2.49,120
+75529,3 Pack Oat Chocolate Bar Crisp Rice Cocoa Nibs,$2.49,120
+70441,Dark Chocolate Coffee Buzz Bars,$1.99,84
+93184,Lovers Bar Dark Choc 85%,$1.99,144
+84755,Mini 70% Cacao Dark Choc 100 Cal Bar,$1.99,48
+85361,Mini Milk Choc Bars 100 Cal,$1.99,48
+70561,Org Dark Choc 73% Bar,$1.99,144
+90725,Org Dark Choc Almond Bar,$1.99,144
+70557,Org Dark Choc Truffle Bar,$1.99,144
+54783,Org Fair Trade 72% Belgian Dark Choc Bar,$1.99,72
+70558,Org Milk Choc Truffle Bar,$1.99,144
+20467,Pound Plus Bittersweet Choc Almond Bar,$5.99,26
+48875,Pound Plus Dark Choc 72% Cacao Bar,$5.99,28
+20466,Pound Plus Dark Choc Bar,$5.99,30
+20468,Pound Plus Milk Choc Bar,$5.99,30
+20469,Pound Plus Milk Choc With Almonds Bar,$5.99,26
+92390,Swiss Dark Choc With Hazelnuts Bar,$4.49,20
+45380,Swiss Milk Choc With Hazelnuts Bar,$4.49,20
+56275,Almonds Dark Choc Bag 2.5OZ,$0.99,128
+56016,Almonds Milk And Dark Choc 1LB,$5.99,24
+94751,Butterscotch Sea Salt Choc,$3.99,24
+22084,Caramels Dark Choc Covered,$4.99,36
+50631,Cherries Dark Choc,$5.49,36
+74539,Choc Snacky Clusters,$3.99,36
+48303,English Toffee Milk Choc,$3.69,24
+62909,Espresso Beans Coffee Lovers,$0.99,128
+43335,Espresso Beans Dark Choc,$4.99,24
+98413,Marshmallows Dark Choc,$3.99,24
+78938,Mint Creams Dark Choc,$3.99,36
+75601,Peanut Butter Crispy Rice Bites,$3.99,34
+22129,Peanut Butter Cups Milk Choc,$4.49,24
+02636,Peanut Butter Cups Milk Choc Mini,$3.99,24
+69026,Peanut Butter Peanuts Crispy,$2.69,36
+72159,Peanuts Bamba Dark Chocolate,$2.99,24
+70222,Plaintains Dark Choc,$2.99,24
+72810,Pretzels Almond Butter Dark Chocolate,$3.79,36
+45141,Pretzels Mini Dark Choc,$3.49,24
+35982,Pretzels Mini Milk Choc,$3.49,24
+50302,Pretzels Peanut Butter Milk Choc,$3.79,24
+21404,Raisins Dark Choc,$4.49,24
+68228,Sunflower Seed Butter Cups Dark Choc,$3.49,24
+62485,Sunflower Seed Butter Cups Dark Choc 2PK,$0.99,72
+82026,Toffee Pistachio Dark Choc,$4.99,24
+67839,Choc Chips 72% Dark 10 OZ Bag,$2.99,48
+04529,Semi Sweet Choc Chips,$2.99,48
+68322,Almonds Almond Butter,$4.29,20
+96930,Almonds Salt And Sugar Dark Choc,$3.99,36
+63668,Beary Tiny Gummy Organic,$1.29,80
+74031,Cashew Butter Cashews,$4.99,20
+70186,Gummy Fruit Mix,$1.99,28
+65556,Gummy Super Sour Scandinavian Swimmer,$3.49,36
+70176,Gummy Turtles Tangy,$1.99,22
+28077,Pecan Pralines,$5.99,24
+92736,Pretzels Yogurt,$4.29,32
+90801,Fruit Jellies,$3.99,36
+58024,Licorice Soft Twist Black,$2.99,48
+58025,Licorice Soft Twist Strawberry,$2.99,48
+74071,Licorice Soft Twist Trio,$2.49,48
+98744,Almond Windmill,$4.99,24
+67005,Belgian Butter Almond Thins,$2.99,30
+67004,Belgian Butter Waffle Cookies,$2.99,24
+96743,Biscotti Mini Almond Soft Bite,$4.99,24
+99165,Biscotti Mini Hazelnut Soft Bite,$4.99,24
+18725,Cats Cookies For People Chocolate,$3.99,12
+43871,Cinnamon Grahams,$4.49,24
+27403,Cinnamon Schoolbook Cookies,$3.99,12
+63717,Dunkers Oatmeal Cranberry,$5.99,12
+90994,Org Animal Crackers,$4.99,24
+74064,PB&C Snack Duo,$3.99,24
+64117,PB&J Snack Packs,$3.99,24
+73603,Peanut Butter Crispy Crunchy Cookies,$4.49,24
+50236,Speculoos Cookies,$2.29,25
+92890,Thins Meyer Lemon,$4.49,36
+90993,Thins Triple Ginger,$4.49,36
+76369,Tiniest Chocolate Chip Cookies,$3.99,24
+25493,Triple Ginger Snaps,$4.49,24
+94365,Walkers Shortbread Fingers,$4.49,24
+50754,Joe Joes Gluten Free Chocolate Vanilla,$4.49,24
+12312,Meringue Vanilla Fat Free Gluten Free,$3.99,24
+94075,Snickerdoodle Soft Baked Gluten Free,$3.49,24
+72562,Sunflower Cookie Soft Baked Gluten Free,$3.49,24
+76572,Joe Joes Chocolate Vanilla,$2.99,24
+98740,Maple Leaf Sandwich Cremes,$3.99,24
+73609,Shortbread Sandwich Raspberry,$2.99,28
+03575,Biscotti Chocolate Almond,$4.79,24
+10727,Choc Chip Crispy Crunchy,$5.49,12
+36593,Choc Chip Way More,$4.99,24
+58527,Chocolate Covered Wafer Cookie,$0.99,144
+68580,Chocolate Peanut Butter Wafer Cookie,$0.99,144
+93259,Cocoa Batons,$2.29,40
+67751,Cookie Sticks Dark Chocolate,$1.99,49
+82752,Dark Chocolate Chunk Almond Cookies,$4.99,24
+40978,Dunkers Choc Chip Coated,$5.99,12
+54683,Fig Cookies,$2.49,24
+97232,Five Seed Almond Bars,$4.99,24
+26262,Laceys Dark Chocolate Almond,$4.49,24
+74111,Mini Choc Chip Cookie Bag,$0.99,48
+74087,Wafer Cookie Double Chocolate,$3.49,24
+70202,Partake Choc Chip Gluten Free,$3.99,24
+93854,Chocolate Hazelnut,$4.49,24
+64582,Cookie Sandwich Aussie,$2.99,36
+70377,Joe Joes Peanut Butter,$3.49,24
+82564,Wafers Caramel Dutch Stroopwafels,$3.49,28
